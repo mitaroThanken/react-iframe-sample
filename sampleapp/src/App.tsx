@@ -24,6 +24,7 @@ function App() {
         <IFrame title="custom IFrame test" head={<title>custom IFrame test</title>}>
           <h1>Hello world</h1>
         </IFrame>
+        <IFrame title="blank"></IFrame>
       </header>
     </div>
   );
